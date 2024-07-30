@@ -1,0 +1,87 @@
+1. Select a difficulty of the world -- Done
+2. Add world images? --Done
+3. Create a new world if none exist -- Done
+4. Add a rules book -- Done
+5. Async load of Companions json -- Done
+6. Foldable click by label -- Done
+7. Discord server -- Done
+8. Rules, About, Options pages in side menu -- Done
+9. Properly highlight options in Navigation
+10. Dragon Heart choose Element --Done
+11. Properly handle Tier X tickets -- Done
+12. Cooperative intensity more than 1 --Done
+13. Heritages for TX tickets more --Done
+14. Custom field for Perks handling --Done
+15. DR11 Start --Partial
+16. Cash only Rules start --Partial
+17. Proper distinction between chargen and not --Partial
+18. Missions and progress to next world --Partial
+19. Challenges --Done
+20. Challenge that restrict Multiversal travel not by perks --Done
+21. Proper perk remove when unselect --Partial
+22. Notes app --Partial
+23. I'd recommend it just saying 'Have Falna' once, after a list of companions that have it, and then a separate AP entry for each different AP. -- Done
+24. Massive capture target calc -- Done
+25. Waifu perks in Retinue -- Done
+26. Discounts and discounts app - Done
+27. Default and editable image for your card -- Done
+28. Choose of Dragon/TH/Outsider for heritage -- Done
+29. Commands Seals perk, multiple purchase - Done
+30. One Buy method for all perks, but a lot of Different perk components --Started
+31. Settings modal --Done
+32. Link to wiki for chars -- Not feasible
+33. More companions for big screens -- Done
+34. Perk tag link for DLC waifu perks -- Done
+35. Top 20 of Users by submitted chars -- Done
+36. Introductory page for newbies
+37. Rules modal for char submissions --Done
+38. Break points for larger screens -- Done
+39. Center the page if there not enough perks(Stamp) --Done
+40. Pop-up dialog to buy powers -- Done
+41. Rework how Complex Perk Card look -- Done
+42. Export/Import from clipboard -- Done
+43. Nickname used in target -- Done
+44. Error
+45. SSR in Rules -- Done
+46. Local save for perks --Partial
+47. Default to chosen heritage when go there, and show bough perks for the line in tab button. -- Done
+48. Only Retinue tab in Companions  -- Done
+49. Character choice for OCDS -- Done (Need optimization)
+50. Return companion in Retinue tab -- Done
+51. Footer invincible element fix
+52. Rules diffident width fix -- Done
+53. Patron's DLC -- Partial, but done
+54. Worlds condition fix --Done
+55. History of purchases
+56. Selling of TX tickets --Done
+57. DR11 Start fix and work
+58. Specific Waifu Perks Rework
+59. List of WC fics --Done
+60. Use characters UID's instead of names --Done
+61. Use Perks UID's instead of titles
+62. More filters for Retinue tab --Done
+63. Reroll for ESL suggestions --Done
+64. Archideity doubling for CSR - Bullshit
+65. Meta-Shift app
+66. New Specific waifu perks
+67. New save System
+68. Official/User filter for Worlds -- Done
+69. New way of buying perks
+70. DR11 build more expansive help
+71. Proper requirement for ATS Enlightement
+
+remove Gentle Snow
+
+
+
+TODO:
+
+Picking General Seals should cause the Nasuverse Servant requirement in Command Seals to be crossed out
+or you can check "I'm getting General Seals instead" in the Command Seals box
+
+No binding discount applied after should go in debt
+
+Elements for companions
+
+DLC's:
+https://docs.google.com/document/d/17HrAj1iosBsuDgm_VInp8mvDCd4N1dHO_iLaDLLrz4c/edit (lot of expansion on working functionalities). Very expansive DLC. https://docs.google.com/document/d/1j9emHb4IWvOTnp13RASTAuINAFuKDMSSQyQ-7ta9sjA/edit# Merior's stuff is bit smaller but also has some nice additions and would probably be faster to implement, especially if you filter out outdated perks. https://docs.google.com/document/u/0/d/1iRs2MlrmcUoVDwCcKhAvDejtHwthDQelldYli6w1X2U/mobilebasic KatanaSoul's stuff is also relatively slim. https://docs.google.com/spreadsheets/d/1FM6PNbDEyZV4T4rVLWjPYBc3O0jmmwd1obkFD7jLDt8/edit#gid=1422010498 Celestial Dragon has some stuff as well... I feel like these four could be great start.
