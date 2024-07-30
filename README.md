@@ -1,7 +1,7 @@
 
 # Waifu Catalog Interactive
 
-Modded version of <b>Waifu Catalog</b>(SwiftRosenthal) and Om1cron's Waifu Catalog
+Modded version of <b>Waifu Catalog</b>(SwiftRosenthal) and Om1cron's Interactive version of Waifu Catalog
 
 ## Features
 
